@@ -1,5 +1,5 @@
 # ASP.Net Sample Application with CRUD Operations for SQL Server Database
-It is a sample application that demonstrates CRUD (Create, Read, Update and Delete) operations.
+It is a sample application that performs CRUD (Create, Read, Update and Delete) operations.
 
 <h3>Step 1:</h3>
 Restore backup of the database. The backup file resides in <root>/Database/<strong>HRMS.bak</strong>.
